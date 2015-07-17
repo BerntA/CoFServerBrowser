@@ -1,15 +1,15 @@
 #Cry of Fear Server Browser
 
 #CHANGELOG
-#V1.0.0.0
+##V1.0.0.0
 - Initial Release
 
-#V1.0.0.1
+##V1.0.0.1
 - You now connect to servers when double clicking items in the server list, before it would only copy the ip and port and you had to paste it in the console when the game was up.
 - Now you can also connect to other servers while CoF is running by double clicking any available server, this will tell the running game to connect to it.
 - You can now right click any item in the server list, this will pop up a context menu where you can choose to connect to the server or show info about the active players on the server. You can quick refresh this Player Info form by hitting F5.
 
-#V1.0.0.2
+##V1.0.0.2
 - Fixed a crash which would occur if you closed the program while searching for servers.
 - Fixed an issue when you'd connect to a server when CoF wasn't running it had a 50-50 chance that you would not be connected to the server. (you had to click the server again when CoF was up)
 - You can now see which servers are password protected. (displays a padlock icon)

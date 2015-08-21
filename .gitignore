@@ -17,5 +17,4 @@ ipch
 *.sdf
 *.opensdf
 *.idb
-*.vcxproj
 *.pdb
